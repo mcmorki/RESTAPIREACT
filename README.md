@@ -1,16 +1,10 @@
-# RESTAPIREACT
+Let's start
 
+/api -> npm install , npm start
 
+/client -> npm install, npm start
 
-DO NOT RUN THE SEED 
+would make this project run
 
-commands to run
-
-cd into client 
-npm install
-npm start
-
-cd into api
-npm install
-npm start
+Do not run the seed 
 
