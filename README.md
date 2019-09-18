@@ -1,10 +1,12 @@
-Let's start
+How to run the project locally
 
-/api -> npm install , npm start
-
-/client -> npm install, npm start
-
-would make this project run
-
-Do not run the seed 
-
+Setup API project
+Go to the /api directory
+Run npm install
+Run npm start
+Voila! API server is running on port 5000 and Your MongoDB is also setup and running in the background! 
+Setup React App
+Go to /client folder
+Run npm install
+Run npm start
+React app should start in your browser at http://localhost:3000. Have fun! 
